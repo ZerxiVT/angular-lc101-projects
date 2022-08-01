@@ -1,0 +1,12 @@
+.chores {
+    font-family: Arial;
+    color: purple;
+}
+
+.chores h3 {
+    text-decoration: underline;
+}
+
+.chores li {
+    font-style: italic;
+}

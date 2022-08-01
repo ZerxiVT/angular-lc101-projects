@@ -3,7 +3,8 @@ h3 {
 }
 
 img {
-
+   display: block;
+   width: 200px;
 }
 
 .photos {
